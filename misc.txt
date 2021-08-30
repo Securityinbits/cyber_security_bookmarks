@@ -1,0 +1,2 @@
+Blinding EDR On Windows
+https://synzack.github.io/Blinding-EDR-On-Windows/
