@@ -1,2 +1,5 @@
 Blinding EDR On Windows
 https://synzack.github.io/Blinding-EDR-On-Windows/
+
+Cobalt Strike, a Defender’s Guide
+https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
