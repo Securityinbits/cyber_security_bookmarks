@@ -1,3 +1,8 @@
+### Cloud Security
+
+* https://github.com/jassics/security-study-plan
+* https://learntocloud.guide/
+
 Download evaluation version <br/>
 https://www.microsoft.com/en-us/evalcenter
 
