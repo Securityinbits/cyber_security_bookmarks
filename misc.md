@@ -1,3 +1,10 @@
+### Malware Analysis
+
+
+* [online disassembler](https://disasm.pro/)
+* [Another disassembler](https://defuse.ca/online-x86-assembler.htm)
+
+
 ### Cloud Security
 
 * https://github.com/jassics/security-study-plan
